@@ -32,7 +32,7 @@
     <img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" />
   </a>
   <a href="https://openjump.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/OpenJUMP_icon.svg/240px-OpenJUMP_icon.svg.png" alt="OpenJUMP GIS" width="40" height="40" style="border-radius: 50%;" />
+    <img src="https://live.osgeo.org/_images/logo_openjump.png" alt="OpenJUMP GIS" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
