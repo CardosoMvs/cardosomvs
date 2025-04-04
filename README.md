@@ -28,6 +28,9 @@
 
 <h3 align="left">GIS & Tools:</h3>
 <p align="left"> 
+  <a href="[https://qgis.org](https://earthengine.google.com/)" target="_blank" rel="noreferrer">
+    <img src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png" alt="GEE" width="40" height="40" />
+  </a>
   <a href="https://qgis.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" />
   </a>
