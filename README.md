@@ -5,36 +5,41 @@
   <img src="https://komarev.com/ghpvc/?username=cardosomvs&label=Profile%20views&color=0e75b6&style=flat" alt="cardosomvs" /> 
 </p>
 
-🔬 **Research Focus**: [Briefly mention your thesis/topic, e.g., "Forest restoration ecology"]  
-🌱 **Passionate about**: Sustainability, biodiversity, and tech-driven environmental solutions.  
+🌍 **Research Focus**: Digital soil property mapping, blending **stochastic** and **mechanistic models** to advance precision soil science. Currently exploring hybrid modeling approaches for robust spatial predictions.  
 
-📫 **How to reach me**: [cardoso.mvs@gmail.com](mailto:cardoso.mvs@gmail.com)  
+🔬 **Affiliations**:  
+- **MapBiomas Soil Initiative**: Contributing to large-scale soil mapping and land-use impact analysis.  
+- **LAPIG/UFG** (Image Processing & Geoprocessing Lab): Developing geospatial solutions with remote sensing and GIS.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/marcos-vinicius-souza-cardoso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- Add other social links here if needed -->
-</p>
+📫 **Reach me**: [cardoso.mvs@gmail.com](mailto:cardoso.mvs@gmail.com) | <a href="https://linkedin.com/in/marcos-vinicius-souza-cardoso" target="blank">LinkedIn</a>  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <!-- Add more tools like QGIS, GIS, etc. if relevant -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardosomvs&show_icons=true&locale=en&layout=compact" alt="cardosomvs" /></p>
+<h3 align="left">GIS & Tools:</h3>
+<p align="left"> 
+  <a href="https://qgis.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" />
+  </a>
+  <a href="https://openjump.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/OpenJUMP_icon.svg/240px-OpenJUMP_icon.svg.png" alt="OpenJUMP GIS" width="40" height="40" style="border-radius: 50%;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+  <!-- Add more tools like GDAL, Google Earth Engine, etc. here -->
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cardosomvs&show_icons=true&locale=en" alt="cardosomvs" /></p>
+<!-- GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardosomvs&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cardosomvs&show_icons=true&locale=en" alt="GitHub Stats" /></p>
