@@ -20,7 +20,7 @@
 
 ### Languages:
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/free-r-projekt-3521663-2945107.png?f=webp" alt="R" width="40" height="40" />](https://www.r-project.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />] (https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-r-projekt-3521663-2945107.png?f=webp" alt="R" width="40" height="40" />](https://www.r-project.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />](https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### GIS & Tools:
 
