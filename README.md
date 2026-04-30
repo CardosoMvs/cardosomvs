@@ -24,7 +24,7 @@
 
 ### GIS & Tools:
 
-[<img src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png" alt="GEE" width="40" height="40" />](https://earthengine.google.com/) &nbsp; [<img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" />](https://qgis.org) &nbsp; [<img src="https://live.osgeo.org/_images/logo_openjump.png" alt="OpenJUMP GIS" width="40" height="40" style="border-radius: 50%;" />](https://openjump.org) &nbsp; [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />](https://www.figma.com/)
+[<img src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png" alt="GEE" width="40" height="40" />](https://earthengine.google.com/) [<img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="40" height="40" />](https://qgis.org) [<img src="https://live.osgeo.org/_images/logo_openjump.png" alt="OpenJUMP GIS" width="40" height="40" style="border-radius: 50%;" />](https://openjump.org) [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />](https://www.figma.com/)
 
 <br><br>
 
