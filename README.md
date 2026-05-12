@@ -23,5 +23,8 @@
 
 <br><br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cardosomvs&show_icons=true&locale=en&layout=compact)](https://github.com/cardosomvs)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardosomvs&show_icons=true&locale=en)](https://github.com/cardosomvs)
+<p align="left">
+  <img src="https://SEU-LINK-AQUI.vercel.app/api/top-langs?username=cardosomvs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;&nbsp; 
+  <img src="https://SEU-LINK-AQUI.vercel.app/api?username=cardosomvs&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
