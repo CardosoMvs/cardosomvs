@@ -24,7 +24,7 @@
 <br><br>
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=cardosomvs&show_icons=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cardosomvs&show_icons=true&theme=transparent" alt="Top Languages" />
   &nbsp;&nbsp; 
-  <img src="https://github-readme-stats.app/api?username=cardosomvs&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cardosomvs&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
