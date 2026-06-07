@@ -31,6 +31,6 @@
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cardosomvs&show_icons=true&theme=transparent" alt="Top Languages" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=cardosomvs&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cardosomvs&show_icons=true&theme=transparent" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=cardosomvs&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
